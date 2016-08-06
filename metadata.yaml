@@ -1,0 +1,28 @@
+_repo: The-Gold-HuntersA-Story-of-Life-and-Adventure-in-the-Hudson-Bay-Wilds_11668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hudson Bay -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Gold mines and mining -- Fiction'
+- GITenberg
+title: 'The Gold Hunters
+
+  A Story of Life and Adventure in the Hudson Bay Wilds'
+url: http://www.gutenberg.org/ebooks/11668
